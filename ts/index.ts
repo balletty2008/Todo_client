@@ -1,5 +1,6 @@
 // Holds url for the backend
-const BACKEND_ROOT_URL = 'http://localhost:3001'
+//const BACKEND_ROOT_URL = 'http://localhost:3001'
+const BACKEND_ROOT_URL = 'https://todo-server-vlnw.onrender.com'
 import { Task } from "./class/Task.js"  //why is not .ts
 import { Todos } from "./class/Todos.js"
 
